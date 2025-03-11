@@ -6,4 +6,6 @@
 
 - [Adder-GPT](https://github.com/saahithjanapati/adder-gpt/tree/main) (PyTorch)
 
-- [Fast Gradient Sign Method (FGSM)](https://github.com/saahithjanapati/fgsm) (PyTorch)  
+- [Fast Gradient Sign Method (FGSM)](https://github.com/saahithjanapati/fgsm) (PyTorch)
+
+- [CNN Interpretability (Saliency Maps, Class Visualization, Grad-CAM, Neuron Activation)](https://github.com/saahithjanapati/cnn-interpetability/blob/main/cnn-interpretability.ipynb) (PyTorch)
