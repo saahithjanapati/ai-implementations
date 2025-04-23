@@ -9,3 +9,5 @@
 - [Fast Gradient Sign Method (FGSM)](https://github.com/saahithjanapati/fgsm) (PyTorch)
 
 - [CNN Interpretability (Saliency Maps, Class Visualization, Grad-CAM, Neuron Activation)](https://github.com/saahithjanapati/cnn-interpetability/blob/main/cnn-interpretability.ipynb) (PyTorch)
+
+- [VAE Visualizer](https://github.com/saahithjanapati/vae-visualizer) (PyTorch)
