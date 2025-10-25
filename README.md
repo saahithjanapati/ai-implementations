@@ -25,3 +25,4 @@
 ## Other
 - [MNIST Conditional GAN](https://github.com/saahithjanapati/mnist-gan-playground)
 - [Fast Gradient Sign Method (FGSM)](https://github.com/saahithjanapati/fgsm)
+- [Analyzing Intrinsic Dimension of Learning Paradigms (Supervised Fine-Tuning and ICL) in LLMs](https://github.com/saahithjanapati/intrinsic-dimension-of-learning-paradigms)
