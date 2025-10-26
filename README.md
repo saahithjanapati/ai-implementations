@@ -5,7 +5,7 @@
 
 - [MNIST-GPT](https://github.com/saahithjanapati/mnist-gpt)
 - [Adder-GPT](https://github.com/saahithjanapati/adder-gpt/tree/main)
-- [shakespeare-GPT](https://github.com/saahithjanapati/shakespeare-gpt)
+- [shakespeare-lm](https://github.com/saahithjanapati/shakespeare-lm)
 
 
 ## CNNs
